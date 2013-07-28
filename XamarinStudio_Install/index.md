@@ -84,6 +84,16 @@ F#のアドインをインストールすると以下のようなプロジェク
 
 ![Xamarin Studio F# Project's Build Order][img20]
 
+## Mac OSX で Xamarin StudioでF#アプリケーションを実行する
+
+![Xamarin Studio F# Mac OSX Setting][img21]
+
+プロジェクトのツリーのF#のアイコンのある箇所をクリックし、[オプション]を選択する。
+
+![Xamarin Studio F# Mac OSX Setting][img22]
+
+[実行]-[一般]の外部コンソールで開くのチェックを外す
+
 [img01]: <img/img01.png> "Download page"
 [img02]: <img/img02.png> "Downloading"
 [img03]: <img/img03.png> "Xamarin Installer 01"
@@ -104,3 +114,5 @@ F#のアドインをインストールすると以下のようなプロジェク
 [img18]: <img/img18.png> "Xamarin Studio F# 3.0 Console Project"
 [img19]: <img/img19.png> "Xamarin Studio Adding New Class File"
 [img20]: <img/img20.png> "Xamarin Studio F# Project's Build Order"
+[img21]: <img/img21.png> "Xamarin Studio F# Mac OSX Setting"
+[img22]: <img/img22.png> "Xamarin Studio F# Mac OSX Setting"
